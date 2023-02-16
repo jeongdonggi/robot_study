@@ -1,1 +1,9 @@
 파일 올려보겠습니다.
+
+git config --global user.name "jeongdonggi"
+git config --global user.email "dkrhank45@gmail.com"
+
+git pull origin main
+git add .
+git commit -m "올리기 연습"
+git push origin main
